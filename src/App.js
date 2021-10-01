@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div>
       <Header />
-      <Menu />
+      <Menus />
       <Content />
       <Footer />
     </div>
